@@ -1,0 +1,13 @@
+global.owner = ['9477XXXXXXX'] // 
+global.ownername = 'VIHANGA' 
+global.botname = 'VIHANGA-MD' 
+global.packname = 'VIHANGA-MD Sticker'
+global.author = 'Made by VIHANGA'
+
+global.prefa = ['!', '.', '#'] 
+global.sessionName = 'vihanga'
+
+global.welcome = 'hii @user welcome to 👋\nVIHANGA-MD bot !'
+global.leave = '@user leave  group '
+
+global.thumb = './assets/vihanga.jpg'
