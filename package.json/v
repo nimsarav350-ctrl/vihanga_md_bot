@@ -1,0 +1,13 @@
+{
+  "name": "vihanga-md",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot by VIHANGA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.14",
+    "pino": "^9.0.0"
+  }
+}
